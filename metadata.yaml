@@ -1,0 +1,23 @@
+_repo: Steam-Steel-and-Electricity_7886
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Steele, James W.
+    gutenberg_agent_id: '2570'
+    url: http://www.gutenberg.org/2009/agents/2570
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7886'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'T'
+- !lcsh 'Industrial arts -- History'
+- GITenberg
+title: Steam, Steel and Electricity
+url: http://www.gutenberg.org/ebooks/7886
