@@ -1,11 +1,16 @@
 _repo: Steam-Steel-and-Electricity_7886
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Steele, James W.
     gutenberg_agent_id: '2570'
     url: http://www.gutenberg.org/2009/agents/2570
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7886#Steam-Steel-and-Electricity
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2005-04-01'
 gutenberg_type: Text
